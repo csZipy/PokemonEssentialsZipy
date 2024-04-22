@@ -152,6 +152,10 @@ MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
 #-------------------------------
+[032]   # Route One
+Name = Route One
+BattleBack = field
+#-------------------------------
 [034]   # Ice Cave
 Name = Route 3
 Bicycle = true
@@ -204,6 +208,10 @@ ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
+#-------------------------------
+[043]   # Gym 1
+Name = Gym 1
+BattleBack = indoor2
 #-------------------------------
 [044]   # Route 6
 Name = Route 6
@@ -396,3 +404,32 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[079]   # Siren Island
+Name = Siren Island
+BattleBack = sand
+#-------------------------------
+[080]   # Forest 1
+Name = Forest 1
+BattleBack = forest
+#-------------------------------
+[082]   # Town 2 North
+Name = Town 2 North
+BattleBack = field
+#-------------------------------
+[085]   # Route 2
+Name = Route 2
+BattleBack = field
+#-------------------------------
+[092]   # Evil Tunnels
+Name = Evil Tunnels
+BattleBack = indoor2
+#-------------------------------
+[098]   # Short Cave
+Name = Short Cave
+ShowArea = true
+Bicycle = true
+BattleBack = cave1
+#-------------------------------
+[099]   # Dungeon Test
+Dungeon = true
